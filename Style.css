@@ -1,10 +1,26 @@
 @import url("https://fonts.googleapis.com/css?family=Baloo+Tamma");
 
+p {font-family: Baloo Tamma;
+  color: red;
+}
+
+body{background-color: Black;
+}
+
 h1 {font-family: Baloo Tamma;
+  color: Blue;
+  background-color: Black;
+  border: 2px dashed red;
+  padding: 5px;
+  margin: 10px;
+  width: 400px;
+}
+
+h2 {font-family: Baloo Tamma;
   color: blue;
-  background-color: red;
-  border: 2px dashed green;
-  padding: 50px;
+  background-color: Black;
+  border: 2px dashed red;
+  padding: 5px;
   margin: 25px;
-  width: 200px;
+  width: 400px;
 }
